@@ -1,0 +1,17 @@
+# 1. Virtual Environment (ignore your specific folder name)
+venv/
+.venv/
+env/
+
+# 2. Build and Distribution (created when you build your package)
+build/
+dist/
+*.egg-info/
+
+# 3. Python Runtime (compiled code)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 4. Environment variables (security)
+.env
