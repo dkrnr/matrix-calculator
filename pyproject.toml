@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mxcalc"  # The name used for 'pip install'
-version = "0.1.1"
+version = "0.1.2"
 description = "A matix calculator which performs matrix operations"
 readme = "README.md"
 requires-python = ">=3.8"
